@@ -3,7 +3,7 @@ Simple editor for Kodi playlist files .m3u
 
 ## Getting Started
 
-At the moment there is only the compiled EXE file released on the respository. The code will come some days later.
+At the moment there is only the compiled EXE file released on the respository. The code will be distributed some days later.
 
 
 ### Prerequisites
