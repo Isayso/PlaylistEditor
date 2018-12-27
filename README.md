@@ -22,7 +22,7 @@ KodiPlaylistEditor.exe
 ```
 
 
-You can connect the .m3u filename with the program. 
+You can connect the .m3u filename extension with the program. 
 
 
 
