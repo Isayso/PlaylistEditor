@@ -25,6 +25,10 @@ KodiPlaylistEditor.exe
 You can connect the .m3u filename extension with the program. 
 
 
+## Known Issues
+
+The save overwrite dialog appears two times due to an unknown error. [COMPARE](https://developercommunity.visualstudio.com/content/problem/366921/problem-with-savefiledialog-overwriteprompt.html)
+
 
 ## Built With
 
