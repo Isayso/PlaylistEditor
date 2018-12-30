@@ -1,6 +1,6 @@
 # Playlist Editor
 Simple editor for Kodi playlist video files .m3u for Windows.
-You can edit exiting Kodi playlists, rename, move and delete playlist entries.
+You can edit existing Kodi video playlists, add, rename, move and delete playlist entries. 
 ![UI](KodiPlaylistEditor.PNG)
 
 ## Getting Started
@@ -20,7 +20,7 @@ Unzip and run the exe file. No install necessary.
 
 
 ```
-KodiPlaylistEditor.exe
+PlaylistEditor.exe
 ```
 
 
