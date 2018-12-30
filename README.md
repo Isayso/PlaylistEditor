@@ -5,7 +5,7 @@ You can edit existing Kodi video playlists, add, rename, move and delete playlis
 
 ## Getting Started
 
-At the moment there is only the compiled EXE file released on the respository. The code will be distributed some days later.
+At the moment there is only the compiled EXE file released on the respository. The code will be distributed some days later after big feature update coming soon. 
 
 
 ### Prerequisites
