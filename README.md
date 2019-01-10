@@ -12,7 +12,7 @@ Simple editor for Kodi playlist video files .m3u for Windows.
 
 ## Getting Started
 
-At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. The code will be distributed some days later after feature update coming soon, version 1.2
+At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. Version 1.2
 
 
 ### Prerequisites
