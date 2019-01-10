@@ -1,13 +1,18 @@
 # Playlist Editor
 Simple editor for Kodi playlist video files .m3u for Windows.
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list.
-- YouTube links from clipboard can be added with a own defined hotkey to playlist.
-- define known Kodi and nfs drives IP for local video file links
+
 ![UI](PlaylistEditor2.PNG)
+
+- YouTube links from clipboard can be added with a own defined hotkey to playlist.
+- You can add local files and automatic replace the IPs for your Kodi linux device and nfs drives like NAS drives.
+
+![UI](settings.PNG)
+
 
 ## Getting Started
 
-At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. The code will be distributed some days later after feature update coming soon, beta version 1.1.8-beta.2
+At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. The code will be distributed some days later after feature update coming soon, version 1.2
 
 
 ### Prerequisites
