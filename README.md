@@ -1,7 +1,7 @@
 # Playlist Editor
 Editor for Kodi playlist video files .m3u for Windows with send link to Kodi support.
 
-- You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. Search for names and find duplicate links to merge files. Copy/paste links to other editor instance. A copy link to clipboard with a JDownloader frindly delay is integrated. 
+- You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. Search for names and find duplicate links to merge files. Copy/paste links to other editor instance. A copy link to clipboard with a JDownloader friendly delay is integrated. 
 
 ![UI](PlaylistEditor3.PNG)
 
