@@ -34,6 +34,12 @@ PlaylistEditor.exe
 
 You can connect the .m3u filename extension with the program or open files with drag and drop on the icon.
 
+### New variant for IPTV lists
+
+beta version: 
+```
+PlaylistEditorIPTV.exe
+```
 
 
 
