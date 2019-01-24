@@ -1,7 +1,9 @@
 # Playlist Editor
 Editor for Kodi video playlist files .m3u for Windows with send link to Kodi support.
+A version for IPTV files under development (beta version see below)
 
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. Search for names and find duplicate links to merge files. Copy/paste links to other editor instance. A copy link to clipboard with a JDownloader friendly delay is integrated. 
+Send or queue links to the connected Kodi device.
 
 ![UI](PlaylistEditor3.PNG)
 
@@ -13,7 +15,7 @@ Editor for Kodi video playlist files .m3u for Windows with send link to Kodi sup
 
 ## Getting Started
 
-At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. Version 1.3
+At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. Version 1.3 and a editor for IPTV files (beta). 
 
 
 ### Prerequisites
@@ -34,7 +36,7 @@ PlaylistEditor.exe
 
 You can connect the .m3u filename extension with the program or open files with drag and drop on the icon.
 
-### New variant for IPTV lists
+### New spin-off for IPTV lists
 
 beta version: 
 ```
