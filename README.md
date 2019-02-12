@@ -1,4 +1,4 @@
-# Playlist Editor (Video or IPTV edition)
+# Playlist Editor (for Kodi video m3u files)
 Editor for Kodi video playlist files .m3u for Windows with send link to Kodi support.
 A version for IPTV files under development PlaylistEditorTV (beta version see below)
 
