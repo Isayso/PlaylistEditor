@@ -15,7 +15,7 @@ Send or queue links to the connected Kodi device.
 
 ## Getting Started
 
-At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. Version 1.3.6 . 
+At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. 
 
 
 ### Prerequisites
