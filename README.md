@@ -1,5 +1,5 @@
 # Playlist Editor (for Kodi video m3u files)
-Editor for Kodi video playlist files .m3u for Windows with send link to Kodi and play with VLC player support.
+Editor for Kodi video playlist files .m3u for Windows with send link to Kodi and play with VLC player support (DASH tbd).
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV).
 
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. Search for names and find duplicate links to merge files. Copy/paste links to other editor instance. A copy link to clipboard with a delayed loop for JDownloader is integrated. 
