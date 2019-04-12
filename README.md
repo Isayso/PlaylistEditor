@@ -6,7 +6,7 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 Send or queue links to the connected Kodi device.
 Play links on Windows with installed VLC player.
 
-![UI](PlaylistEditor.1.4.png)
+![UI](KodiPlaylistEditor.1.4.PNG)
 
 - YouTube links from clipboard can be added with a own defined hotkey to playlist.
 - You can add local files and automatic replace the IPs for your Kodi linux device and nfs path for NAS drives.
