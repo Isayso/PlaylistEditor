@@ -21,7 +21,8 @@ At the moment there is only the compiled EXE file [released](https://github.com/
 
 ### Prerequisites
 
-Windows with .NET Framework 4.6.2
+- Windows with .NET Framework 4.6.2. 
+- VLC player recommended.
 
 
 
