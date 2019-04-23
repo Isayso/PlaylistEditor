@@ -4,7 +4,7 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. Search for names and find duplicate links to merge files. Copy/paste links to other editor instance. A copy link to clipboard with a delayed loop for JDownloader is integrated. 
 Send or queue links to the connected Kodi device.
-Play links on Windows with installed VLC player.
+Play links on Windows with installed VLC player or download with youtube-dl / ffmpeg.
 
 ![UI](KodiPlaylistEditor.1.4.PNG)
 
