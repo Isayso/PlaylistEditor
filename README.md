@@ -9,6 +9,7 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 - Send or queue links to the connected Kodi device.
 - Play links on Windows with installed VLC player 
 - download with youtube-dl / ffmpeg and automatic replace the link
+- support for NAS/nfs device
 
 ![UI](KodiPlaylistEditor_1.5.png)
 
