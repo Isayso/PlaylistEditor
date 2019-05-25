@@ -28,7 +28,7 @@ At the moment there is only the compiled EXE file [released](https://github.com/
 
 - Windows with .NET Framework 4.6.2. 
 - VLC player recommended.
-- youtube-dl and ffmeg for download YT videos
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) and ffmeg for download YT videos  
 
 
 
