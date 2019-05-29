@@ -18,7 +18,7 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 
 
 
-![UI](playlistedit2.png) ![UI](playlistedit3.png)
+ ![UI](playlistedit3.png)
 
 
 ## Getting Started
