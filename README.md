@@ -2,6 +2,7 @@
 Editor/Player for Kodi video playlist files .m3u for Windows with send link to Kodi and play with VLC player, download with youtube-dl (with MPEG-DASH). Can be used as an offline Youtube link storage for Windows.
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
 
+- NEW in 1.7: Better UI for download youtube files. Open video location in explorer.
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. 
 - YouTube links from clipboard can be added with a own defined hotkey to playlist.
 - Search for names and find duplicate links to merge files. 
@@ -13,11 +14,11 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 - support for NAS/nfs device
 - You can add local files and automatic replace the IPs for your Kodi linux device and nfs path for NAS drives.
 
-![UI](KodiPlaylistEditor_1.5.png)
+![UI](playlistedit1.png)
 
 
 
-![UI](kodi_tab_1.4.PNG) ![UI](Kodi_tab2_1.5.png)
+![UI](playlistedit2.png) ![UI](playlistedit3.png)
 
 
 ## Getting Started
