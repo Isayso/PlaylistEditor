@@ -14,7 +14,7 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 - support for NAS/nfs device
 - You can add local files and automatic replace the IPs for your Kodi linux device and nfs path for NAS drives.
 
-![UI](playlistedit1.png)
+![UI](playlistedit_help.png)
 
 
  ![UI](playlistedit2.png)
