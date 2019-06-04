@@ -68,5 +68,5 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 * ffmpeg developers
 * vlc player
 
-Thank you for their great work!
+Thank you for your great work!
 
