@@ -54,7 +54,7 @@ go to [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) in other re
 
 ## Built With
 
-* [Visual Studio 2017](https://visualstudio.microsoft.com/) - C# with .NET 4.6.2
+* [Visual Studio 2019](https://visualstudio.microsoft.com/) - C# with .NET 4.6.2
 
 
 ## License
