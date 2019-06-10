@@ -53,6 +53,7 @@ go to [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) in other re
 ## Troubleshooting
 
 If Playlist Editor refuses to start, go to C:\Users\.....\AppData\Local\GitHub_Isayso and delete the entries. 
+Win+R: "appdata"
 
 ## Built With
 
