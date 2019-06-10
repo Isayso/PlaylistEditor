@@ -46,11 +46,13 @@ PlaylistEditor.exe
 
 You can connect the .m3u filename extension with the program or open files with drag and drop on the icon.
 
-### New spin-off for IPTV lists
+### Spin-off for IPTV lists
 
 go to [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV) in other repository
 
+## Troubleshooting
 
+If Playlist Editor refuses to start, go to C:\Users\.....\AppData\Local\GitHub_Isayso and delete the entries. 
 
 ## Built With
 
