@@ -23,6 +23,20 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
  ![UI](playlistedit3.png)
 
 
+
+## Keyboard shortcuts
+- Strg + C copy row
+- Strg + V paste row
+- Strg + X cut row
+- Strg + F find string
+- Strg + N open new window
+- Strg + S save
+- Strg + P send link to Kodi (IP in settings)
+- Strg + Q send link to Kodi queue
+- Strg + O open link in explorer or browser
+- Strg + +/- change font size
+- del delete selected row
+
 ## Getting Started
 
 At the moment there is only the compiled EXE file [released](https://github.com/Isayso/PlaylistEditor/releases) on the respository. 
@@ -47,6 +61,9 @@ PlaylistEditor.exe
 
 
 You can connect the .m3u filename extension with the program or open files with drag and drop on the icon.
+
+
+
 
 ### Spin-off for IPTV lists
 
