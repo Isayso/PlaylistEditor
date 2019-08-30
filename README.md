@@ -3,8 +3,8 @@ Editor/Player for Kodi video playlist files .m3u for Windows with send link to K
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
 
 - NEW in 1.9: Check for valid links button, search for Name field with google, enter the fps value for download. 
+light orange: Link or video not avaliable, Light grey: file could not be checked.
 
-light orange: Link or video not avaliable, Light grey: link not checked
 - NEW in 1.8: Force download of high framerate videos. Get youtube link with hotkey error fixed.
 - NEW in 1.7: Better UI for download youtube files. Open video location in explorer.
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. 
