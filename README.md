@@ -2,12 +2,19 @@
 Editor/Player for Kodi video playlist files .m3u for Windows with send link to Kodi and play with VLC player, download with youtube-dl (with MPEG-DASH). Can be used as an offline Youtube link storage for Windows.
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
 
-- 1.9.1: Bugfixes, select already found dead links with Strg+button without new search. 
-- NEW in 1.9: Check for valid links button, search for Name field with google, enter the fps value for download. 
+- 1.9.2 
+[ADD] http link grabber of video files and m3u lists
+[ADD] play http link with vlc
+[ADD] undo/redo function
+[FIX] copy/paste different cell or row behavior
+[FIX] Kodi play (Strg-P) with multiple rows plays first row and queues rest
+
+- 1.9.1: Bugfixes, [ADD] select already found dead links with Strg+button without new search. 
+- NEW in 1.9: [ADD] Check for valid links button, [ADD] search for Name field with google, [ADD] enter the fps value for download. 
 light orange: Link or video not avaliable, Light grey: file could not be checked.
 
-- NEW in 1.8: Force download of high framerate videos. Get youtube link with hotkey error fixed.
-- NEW in 1.7: Better UI for download youtube files. Open video location in explorer.
+- NEW in 1.8: [ADD] Force download of high framerate videos. [FIX] Get youtube link with hotkey error fixed.
+- NEW in 1.7: [FIX] Better UI for download youtube files. [ADD] Open video location in explorer.
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. 
 - YouTube links from clipboard can be added with a own defined hotkey to playlist.
 - Search for names and find duplicate links to merge files. 
