@@ -4,6 +4,7 @@ A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistE
 
 - 1.9.3 [ADD] support for music.youtube.com
 [FIX] better support for embedded youtube video links
+[FIX] Kodi needs 4 sec delay after play on Kodi command
 - 1.9.2 
 [ADD] http link grabber of video files and m3u lists
 [ADD] play http link with vlc
