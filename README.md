@@ -38,17 +38,17 @@ light orange: Link or video not avaliable, Light grey: file could not be checked
 
 
 ## Keyboard shortcuts
-- Strg + C copy row
-- Strg + V paste row
-- Strg + X cut row
-- Strg + F find string
-- Strg + N open new window
-- Strg + S save
-- Strg + G search with google
-- Strg + P send link to Kodi (IP in settings)
-- Strg + Q send link to Kodi queue
-- Strg + O open link in explorer or browser
-- Strg + +/- change font size
+- Ctrl + C copy row
+- Ctrl + V paste row
+- Ctrl + X cut row
+- Ctrl + F find string
+- Ctrl + N open new window
+- Ctrl + S save
+- Ctrl + G search with google
+- Ctrl + P send link to Kodi (IP in settings)
+- Ctrl + Q send link to Kodi queue
+- Ctrl + O open link in explorer or browser
+- Ctrl + +/- change font size
 - del delete selected row
 
 ## Getting Started
