@@ -1,7 +1,7 @@
 # Playlist Editor (for Kodi video m3u files)
 Editor/Player for Kodi video playlist files .m3u for Windows with send link to Kodi and play with VLC player, download with youtube-dl (with MPEG-DASH). Can be used as an offline Youtube link storage for Windows.
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
-
+- 1.9.4 [ADD] counter popup for link check, hotkey supports all Kodi video fie types
 - 1.9.3 [ADD] support for music.youtube.com
 [FIX] better support for embedded youtube video links
 [FIX] Kodi needs 4 sec delay after play on Kodi command
@@ -108,5 +108,7 @@ Thank you for your great work!
 
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/PlaylistEditor/v1.9.3/total)
+
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/PlaylistEditor/v1.9.4/total)
 
 
