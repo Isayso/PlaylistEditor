@@ -95,7 +95,6 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 Thank you for your great work!
 
 
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/PlaylistEditor/v1.9.3/total)
 
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/PlaylistEditor/v1.9.4/total)
 
