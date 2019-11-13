@@ -25,6 +25,7 @@ light orange: Link or video not avaliable, Light grey: file could not be checked
 
 
 ## Keyboard shortcuts
+- F2 to edit cell
 - Ctrl + C copy row
 - Ctrl + V paste row
 - Ctrl + X cut row
