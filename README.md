@@ -1,13 +1,12 @@
 # Playlist Editor (for Kodi video m3u files)
 Editor/Player for Kodi video playlist files .m3u for Windows with send link to Kodi and play with VLC player, download with youtube-dl (with MPEG-DASH). Can be used as an offline Youtube link storage for Windows.
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
-- 1.9.4 [ADD] counter popup for link check, hotkey supports all Kodi video file types
-
-- Check for valid links button, [ADD] search for Name field with google, [ADD] enter the fps value for download. 
+ 
+ 
+- Check for valid links button, search for Name field with google, enter the fps value for download. 
 light orange: Link or video not avaliable, Light grey: file could not be checked.
-
 - You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. 
-- YouTube links and all other Kodi supported html links from clipboard can be added with a own defined hotkey to playlist.
+- YouTube links and all other Kodi supported html links from clipboard can be added with a own defined hotkey to playlist, or send to your Kodi device without the editor. 
 - Search for names and find duplicate links to merge files. 
 - Copy/paste links to other editor window. 
 - A copy link to clipboard with a delayed loop for JDownloader is integrated. 
@@ -17,11 +16,11 @@ light orange: Link or video not avaliable, Light grey: file could not be checked
 - support for NAS/nfs device
 - You can add local files and automatic replace the IPs for your Kodi linux device and nfs path for NAS drives.
 
-![UI](playlistedit_help.png)
+![UI](open.png)
 
 
- ![UI](playlistedit2.png)
- ![UI](playlistedit3.png)
+ ![UI](download.PNG)
+ ![UI](settings_all.png)
 
 
 
@@ -31,12 +30,14 @@ light orange: Link or video not avaliable, Light grey: file could not be checked
 - Ctrl + X cut row
 - Ctrl + F find string
 - Ctrl + N open new window
+- Ctrl + O open file
 - Ctrl + S save
 - Ctrl + G search with google
 - Ctrl + P send link to Kodi (IP in settings)
 - Ctrl + Q send link to Kodi queue
-- Ctrl + O open link in explorer or browser
+- Ctrl + L open link in explorer or browser
 - Ctrl + +/- change font size
+- Ctrl + 1/2 move up/down line
 - del delete selected row
 
 ## Getting Started
