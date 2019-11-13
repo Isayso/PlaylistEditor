@@ -30,7 +30,7 @@ light orange: Link or video not avaliable, Light grey: file could not be checked
 - Ctrl + X cut row
 - Ctrl + F find string
 - Ctrl + N open new window
-- Ctrl + O open file
+- Ctrl + O open file dialog
 - Ctrl + S save
 - Ctrl + G search with google
 - Ctrl + P send link to Kodi (IP in settings)
@@ -39,6 +39,12 @@ light orange: Link or video not avaliable, Light grey: file could not be checked
 - Ctrl + +/- change font size
 - Ctrl + 1/2 move up/down line
 - del delete selected row
+
+## Double Click Events
+- Double on Background --> open file dialog
+- Double on Grid Cell --> play in vlc
+- Double + Ctrl on Grid Cell --> play on Kodi
+- Double + Ctrl + Shift --> queue on Kodi
 
 ## Getting Started
 
