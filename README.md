@@ -1,5 +1,5 @@
 # Playlist Editor for Kodi
-Editor/Player for Kodi playlist files (.m3u) for Windows with send link to Kodi and play with VLC player, download with youtube-dl. 
+Windows Editor/Player for Kodi playlist files (.m3u) with send link to Kodi and play with VLC, download of youtube videos with youtube-dl. 
 Import links from internet, other players or local storage devices (NAS).  
 
 Can be used as an offline Youtube link storage for Windows.
