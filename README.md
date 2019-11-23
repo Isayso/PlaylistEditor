@@ -6,6 +6,10 @@ Can be used as an offline Youtube link storage for Windows.
 
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)
  
+ ![UI](overview.png)
+
+ 
+ 
 - NEW 2.1 AIMP playlist import
 - Check for valid links button, search for Name field with google, enter the fps value for download. 
 light orange: Link or video not avaliable, Light grey: file could not be checked.
