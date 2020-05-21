@@ -1,4 +1,7 @@
 # Playlist Editor for Kodi
+
+Coming soon: Next release will use YoutubeExplode instead of youtube-dl
+
 Windows Editor/Player for Kodi playlist files (.m3u) with send link to Kodi and play with VLC, download of youtube videos with youtube-dl. 
 Import links from internet, other players or local storage devices (NAS).   
 NEW: Import of links from [VideoLinkSafe](https://github.com/Isayso/VideoLinkSafe) via Hotkey.
