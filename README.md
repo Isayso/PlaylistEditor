@@ -1,6 +1,6 @@
 # Playlist Editor for Kodi
 
-New release 2.2 uses YoutubeExplode instead of youtube-dl!
+New release 2.2 uses YoutubeExplode instead of youtube-dl!  FFmpeg included, no further addon for download used. 
 
 Windows Editor/Player for Kodi playlist files (.m3u) with send link to Kodi and play with VLC, download of youtube videos with youtube-dl. 
 Import links from internet, other players or local storage devices (NAS).   
