@@ -111,6 +111,7 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 
 * Inspired from various IPTV editors for Kodi
 * [YoutubeExplode](https://github.com/Tyrrrz) 
+* Willy-Kimura BetterFolderBrowser
 * ffmpeg developers
 * vlc player
 
