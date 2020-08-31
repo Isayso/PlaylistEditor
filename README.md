@@ -1,5 +1,6 @@
 # Playlist Editor for Kodi
 
+2.2.3 better undo/redo UI, better find UI, fixes
 2.2.2 some fixes, YTExplode new dll, fix of Youtube changes.
 
 New release 2.2 uses YoutubeExplode instead of youtube-dl!  FFmpeg included, no further addon for download used. 
