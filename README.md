@@ -14,7 +14,7 @@ Can be used as an offline Youtube link storage for Windows.
 A version for IPTV files: [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV)  
 Source code in other repository [PlaylistEditor2](https://github.com/Isayso/PlaylistEditor2)
  
- ![UI](overview.png)
+ ![UI](Overview2.png)
 
  
  
