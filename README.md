@@ -1,11 +1,9 @@
 # Playlist Editor for Kodi
 
 2.2.3 better undo/redo UI, better find UI, fixes
-2.2.2 some fixes, YTExplode new dll, fix of Youtube changes.
 
-New release 2.2 uses YoutubeExplode instead of youtube-dl!  FFmpeg included, no further addon for download used. 
 
-Windows Editor/Player for Kodi playlist files (.m3u) with send link to Kodi and play with VLC, download of youtube videos with youtube-dl. 
+Windows Editor/Player for Kodi playlist files (.m3u) with send link to Kodi and play with VLC.
 Import links from internet, other players or local storage devices (NAS).   
 NEW: Import of links from [VideoLinkSafe](https://github.com/Isayso/VideoLinkSafe) via Hotkey.
 
@@ -17,25 +15,11 @@ Source code in other repository [PlaylistEditor2](https://github.com/Isayso/Play
  ![UI](Overview2..png)
 
  
- 
-- NEW 2.1 AIMP playlist import
-- Check for valid links button, search for Name field with google, enter the fps value for download. 
-light orange: Link or video not avaliable, Light grey: file could not be checked.
-- You can edit and create Kodi video playlists, add, rename, move and delete playlist entries, drag&drop video files and m3u files to add to list. 
-- YouTube links and all other Kodi supported html links from clipboard can be added with a own defined hotkey to playlist, or send to your Kodi device without the editor. 
-- Search for names and find duplicate links to merge files. 
-- Copy/paste links to other editor window. 
-- A copy link to clipboard with a delayed loop for JDownloader is integrated. 
-- Send or queue links to the connected Kodi device.
-- Play links on Windows with installed VLC player 
-- download with youtube-dl / ffmpeg and automatic replace the link
-- support for NAS/nfs device
-- You can add local files and automatic replace the IPs for your Kodi linux device and nfs path for NAS drives.
 
 ![UI](open.png)
 
 
- ![UI](download.PNG)
+
  ![UI](settings_all.png)
 
 
