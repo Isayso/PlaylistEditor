@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.2.4 updates for YouTube changes, fixes
+
 2.2.3 better undo/redo UI, better find UI, fixes
 
 
