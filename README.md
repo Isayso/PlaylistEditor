@@ -1,5 +1,9 @@
 # Playlist Editor for Kodi
 
+
+2.2.5 hotfix for Youtube changes. No valid link to play with vlc. Please update!
+The Ctrl-y hotkey now copies the clipboard, no Ctrl-c before necessary.
+
 2.2.4 updates for YouTube changes, fixes
 
 2.2.3 better undo/redo UI, better find UI, fixes
