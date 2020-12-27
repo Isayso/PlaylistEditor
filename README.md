@@ -7,7 +7,6 @@ The Ctrl-y hotkey now copies the clipboard, no Ctrl-c before necessary.
 
 2.2.4 updates for YouTube changes, fixes
 
-2.2.3 better undo/redo UI, better find UI, fixes
 
 
 Windows Editor/Player for Kodi playlist files (.m3u) with send link to Kodi and play with VLC.
