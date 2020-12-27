@@ -1,5 +1,6 @@
 # Playlist Editor for Kodi
 
+2.2.6  Vimeo and Dailymotion plugin support, Ctrl-c in Hotkey included now optional in settings
 
 2.2.5 hotfix for Youtube changes. No valid link to play with vlc. Please update!
 The Ctrl-y hotkey now copies the clipboard, no Ctrl-c before necessary.
@@ -62,6 +63,8 @@ At the moment there is only the compiled EXE file [released](https://github.com/
 
 - Windows with .NET Framework 4.6.2. 
 - VLC player recommended.
+- uses compiled exe of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=https://github.com/FFmpeg/FFmpeg>here</a>.
+
 
 
 
