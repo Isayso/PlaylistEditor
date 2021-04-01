@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.2.7  Rumble support
+
 2.2.6  Vimeo and Dailymotion plugin support, Ctrl-c in Hotkey included now optional in settings
 
 2.2.5 hotfix for Youtube changes. No valid link to play with vlc. Please update!
