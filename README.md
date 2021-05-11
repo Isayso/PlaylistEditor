@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.2.8 Bitchute, Odysee, plugin string in settings.  
+
 2.2.7  Rumble support
 
 2.2.6  Vimeo and Dailymotion plugin support, Ctrl-c in Hotkey included now optional in settings
