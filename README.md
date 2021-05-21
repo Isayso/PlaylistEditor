@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.2.9 YOutube import error fixed
+
 2.2.8 Bitchute, Odysee, plugin string in settings.  
 
 2.2.7  Rumble support
