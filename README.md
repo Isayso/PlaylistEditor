@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.3.0 fix for youtube slowdown
+
 2.2.9 Youtube import error fixed
 
 2.2.8 Bitchute, Odysee, plugin string in settings.  
