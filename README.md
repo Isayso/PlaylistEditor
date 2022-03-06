@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.3.1 D&D right mouse button to move, Insert row Ctrl+I
+
 2.3.0 fix for youtube slowdown
 
 2.2.9 Youtube import error fixed
