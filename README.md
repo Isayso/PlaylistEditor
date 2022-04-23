@@ -1,6 +1,6 @@
 # Playlist Editor for Kodi
 
-2.3.2 context menu optimized  
+2.3.3 context menu optimized  
 
 2.3.1 D&D right mouse button to move, Insert row Ctrl+I
 
