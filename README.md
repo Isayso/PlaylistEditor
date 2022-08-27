@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.3.4 read and convert vlc and generic m3u files from and to kodi files
+
 2.3.3 context menu optimized  
 
 2.3.1 D&D right mouse button to move, Insert row Ctrl+I
