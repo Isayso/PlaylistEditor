@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi
 
+2.3.5 youtube short videos supported for import
+
 2.3.4 read and convert vlc and generic m3u files from and to kodi files
 
 2.3.3 context menu optimized  
