@@ -1,29 +1,6 @@
 # Playlist Editor for Kodi
 
-2.3.5 youtube short videos supported for import
-
-2.3.4 read and convert vlc and generic m3u files from and to kodi files
-
-2.3.3 context menu optimized  
-
-2.3.1 D&D right mouse button to move, Insert row Ctrl+I
-
-2.3.0 fix for youtube slowdown
-
-2.2.9 Youtube import error fixed
-
-2.2.8 Bitchute, Odysee, plugin string in settings.  
-
-2.2.7  Rumble support
-
-2.2.6  Vimeo and Dailymotion plugin support, Ctrl-c in Hotkey included now optional in settings
-
-2.2.5 hotfix for Youtube changes. No valid link to play with vlc. Please update!
-The Ctrl-y hotkey now copies the clipboard, no Ctrl-c before necessary.
-
-2.2.4 updates for YouTube changes, fixes
-
-
+2.3.6 youtube short videos supported for import, Youtube fix
 
 Windows Editor/Creator for Kodi playlist files (.m3u) with send link to Kodi and play with VLC.
 Import links from internet, other players or local storage devices (NAS).   
