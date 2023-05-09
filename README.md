@@ -1,4 +1,4 @@
-# Playlist Editor for Kodi
+# Playlist Editor for Kodi m3u files
 
 2.3.6 youtube short videos supported for import, Youtube fix
 
