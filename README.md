@@ -1,5 +1,7 @@
 # Playlist Editor for Kodi m3u files
 
+## Further development at [Codeberg](https://codeberg.org/Isayso)
+
 2.3.6 youtube short videos supported for import, Youtube fix
 
 Windows Editor/Creator for Kodi playlist files (.m3u) with send link to Kodi and play with VLC.
